@@ -45,7 +45,7 @@ echo -e "${GREEN}✓ Temporary files cleaned${NC}"
 # Settings
 plugin=xtreamity
 version=5.15
-url=https://raw.githubusercontent.com/Ham-ahmed/211/refs/heads/main/29-xtreamity.tar.gz
+url=https://raw.githubusercontent.com/Ham-ahmed/71/refs/heads/main/14-xtreamity.tar.gz
 package=/var/volatile/tmp/$plugin-$version.tar.gz
 
 # Download and install
